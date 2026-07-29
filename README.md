@@ -21,3 +21,9 @@ docs : 내가 매일 공부한 내용을 마크다운(.md)으로 기록할 곳
 .env : 나중에 API 키를 보관할 파일 (맨 앞에 점(.)이 들어갑니다)
 
 requirements.txt : 나중에 설치할 라이브러리 목록을 적어둘 파일
+
+### 3. 유튜브 영상 강의:
+
+https://youtu.be/kCc8FmEb1nY?si=JKofEYiwKnzKq9As
+
+NanoGPT 해보기 
