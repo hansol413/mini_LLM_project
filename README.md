@@ -1,7 +1,6 @@
 # mini_LLM_project
 3학기 여름방학
 
---
 ## 7/29
 환경 설정
 github 환결 설정 -> vscode 연결해서 설정하기 
