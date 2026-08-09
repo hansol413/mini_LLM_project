@@ -27,3 +27,9 @@ requirements.txt : 나중에 설치할 라이브러리 목록을 적어둘 파�
 https://youtu.be/kCc8FmEb1nY?si=JKofEYiwKnzKq9As
 
 NanoGPT 해보기 
+
+---
+## 8/9
+1. Tokenization(토큰화) - 각 문자에 고유한 번호를 부여하는 dictionary, 문자를 숫자로 바꾸는 코드
+2. 숫자 리스트 대신 파이토치 전용 데이터 형태인 텐서 사용
+3. 
